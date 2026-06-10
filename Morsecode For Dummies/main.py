@@ -6,8 +6,8 @@ from html_page import html
 from morsecode import get_morse
 
 #wifi gegevens
-SSID = "KPNE7DAD6"
-PASSWORD = "GNbxGHMVJ4qLGFjj"
+SSID = ""
+PASSWORD = ""
 
 #wifi zoeken
 wlan = connect(SSID, PASSWORD)
